@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Svetozavr</string>
+    <string name="textRegistrationCamera">Регистрация камеры</string>
+    <string name="textWelcomeRegistration">Сейчас введи IP-адрес камеры, твое имя и пароль от камеры. Если возникнут трудности - кликай на знак вопроса, и у тебя всё получится!</string>
+    <string name="textHintIp">Введите IP</string>
+    <string name="textHintName">Введите имя</string>
+    <string name="textHintPassword">Введите пароль</string>
+    <string name="textRegistrationButton">Зарегистрировать</string>
+    <string name="textWelcome">Добро пожаловать!</string>
+    <string name="textWelcomeDescription">Мы - Светозавр, и мы готовы помочь тебе с системой наблюдения. Пригодится камера любого производителя и сферическое зеркало для слепых зон. Если у тебя все есть, то смело нажимай кнопку ДАЛЕЕ, и дальше тебя ждёт настройка камеры. Удачи!!!</string>
+    <string name="textWelcomeButton">Далее</string>
+    <string name="textSplashScreen">Свет мой, зеркальце, скажи</string>
+    <string name="textMirrorEditorTitle">Выбор зеркала</string>
+    <string name="textDialogEditorTitle">Захват зеркала</string>
+    <string name="textMirrorEditorDescription">Камера подключена! Теперь тебе предстоит выбрать область с зеркалом для показа второго экрана</string>
+    <string name="textMirrorButton">Выбрать зону</string>
+    <string name="textCamerasTitle">Камеры</string>
+    <string name="textProfileTitle">Профиль</string>
+    <string name="textSettingsTitle">Настройки</string>
+    <string name="textDialogEditor">Выделите на видео нужную область с зеркалом, чтобы потом вывести на экран</string>
+    <string name="textSettingsCamera">Изменить данные камеры</string>
+    <string name="textSettingsMirror">Изменить положение зеркала</string>
+    <string name="textSettingsInfo">Информация</string>
+    <string name="textSettingsHelp">Помощь</string>
+    <string name="textSettingsData">Изменить вторичные данные</string>
+    <string name="textChangeName">Изменить имя</string>
+    <string name="textChangeAvatar">Изменить аватар</string>
+    <string name="textAddCamera">Добавить камеру</string>
+    <string name="textDeleteCamera">Удалить камеру</string>
+    <string name="textLeaveApp">Выйти</string>
+    <string name="textChCamTitle">Изменение данных</string>
+    <string name="textChCamDes">Введите новые данные своей камеры, но камера может не отобразиться при неправильно введенных данных</string>
+    <string name="textChange">Изменить</string>
+    <string name="textChangeMirrorDes">Выберите новую область с зеркалом для отображения видео</string>
+</resources>
